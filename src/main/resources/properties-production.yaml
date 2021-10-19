@@ -1,0 +1,9 @@
+http:
+   port: "![Ma6Bey8MwSvgCeQMX2gEig==]"
+   host: "abc"
+   
+Database:
+  host: "PROD-123"
+  port: "1433"
+  username: "Prod@123"
+  password: "abc@123"

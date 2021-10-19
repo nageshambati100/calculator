@@ -1,0 +1,9 @@
+http:
+   port: "![pLfj5q7rfvT/p9DxwQt+TA==]"
+   host: "abc"
+   
+Database:
+  host: "DESKTOP-123"
+  port: "1433"
+  username: "va123"
+  password: "abc@123"
